@@ -1,6 +1,6 @@
 [1]:  https://trello.com/b/QfnrAAE7 "Official Harvest Or Die Trello Board"
 
-![Harvest Or Die Icon](https://raw.githubusercontent.com/HarvestOrDie/harvestordie/master/doc/img/harvestordie_icon_alpha.svg?sanitize=true =256x)
+<img src="https://raw.githubusercontent.com/HarvestOrDie/harvestordie/master/doc/img/harvestordie_icon_alpha.svg?sanitize=true" alt="Harvest Or Die Icon" width="256" height="256"/>
 
 # Harvest Or Die
 A Minetest game pointed to farming/economy experience
