@@ -1,6 +1,6 @@
 [1]:  https://trello.com/b/QfnrAAE7 "Official Harvest Or Die Trello Board"
 
-# Harvest or Die
+# Harvest Or Die
 A Minetest game pointed to farming/economy experience
 
 **TODO:**
